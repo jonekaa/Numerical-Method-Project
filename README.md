@@ -1,12 +1,12 @@
 # Numerical Method Project
 
 1. Find the **positive** real root of the equation $f(x)=x^3 - 6x^2 + 11x - 6.1$ using:
-    - a. Graphical Method
-    - b. Bisection Method
-    - c. False Position
-    - d. Simple Fixed-Point Iteration
-    - e. Newton-Raphson
-    - f. Modified Secant Methods
+    - Graphical Method
+    - Bisection Method
+    - False Position
+    - Simple Fixed-Point Iteration
+    - Newton-Raphson
+    - Modified Secant Methods
 
 2. Make a program to finish these equations:
 
